@@ -1,15 +1,16 @@
-## Oie, eu sou o Lucas 👋
+## Oie, eu sou o Lucas Lima 👋
 
 <div> 
   <a href = "mailto:silva.lucasdel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-lima-5a72ab97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucasdelsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
 
-My name is Lucas Lima, a Systems Analysis and Development student at Anhanguera College - Osasco (SP).
+My name is Lucas Lima, a Systems Analysis and Development.
+Osasco (SP).
 
-- :office_worker: [Liberty Seguros](https://www.libertyseguros.com.br/)
+- :office_worker: [Yelum Seguros](https://www.yelumseguros.com.br/)
 - :blue_heart: Techs: NodeJS, C#, Angular and others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
