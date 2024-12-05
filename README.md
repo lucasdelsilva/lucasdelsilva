@@ -11,7 +11,7 @@ My name is Lucas Lima, a Systems Analysis and Development.
 Osasco (SP).
 
 - :office_worker: [Yelum Seguros](https://www.yelumseguros.com.br/)
-- :blue_heart: Techs: NodeJS, C#, Angular and others.
+- :blue_heart: Techs: NodeJS, C#, Angular, ReactJs and others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
 **Languages and Tools:**
