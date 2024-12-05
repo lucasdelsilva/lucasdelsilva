@@ -1,4 +1,4 @@
-# Lucas Lima 👨‍💻
+# Lucas de Lima 👨‍💻
 
 [![Email](https://img.shields.io/badge/Email-silva.lucasdel%40gmail.com-red?style=flat-square&logo=gmail)](mailto:silva.lucasdel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasdelsilva-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucasdelsilva/)
